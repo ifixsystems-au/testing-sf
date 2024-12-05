@@ -1,0 +1,9 @@
+{
+  "name": "ifixsystems/testing-sf",
+  "description": "Utilities for testing Symfony applications with PHPUnit and Mink",
+  "autoload": {
+    "psr-4": {
+      "IFix\\Testing\\": "src/"
+    }
+  }
+}
